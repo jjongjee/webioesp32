@@ -4,4 +4,6 @@ This project is derived from webiopi.
 
 WebIOPi in esp32
 
-1. You have to input your SSID and Password.
+1. Select chip(support esp32c3, esp32s6)
+2. You have to input your SSID and Password.
+3. Build, Flash and Run
