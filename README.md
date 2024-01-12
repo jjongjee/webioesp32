@@ -1,0 +1,1 @@
+This project is for esp32 chips.
