@@ -1,5 +1,7 @@
-This project is for esp32 chips.
+This project is for esp32 chips in vscode.
 
 This project is derived from webiopi.
 
-You have to input your SSID and Password.
+WebIOPi in esp32
+
+1. You have to input your SSID and Password.
